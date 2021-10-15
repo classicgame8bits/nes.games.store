@@ -1,8 +1,8 @@
 {
   "packageName": "nes.games.store",
-  "forceUpdate": false,
+  "forceUpdate": true,
   "forceUpdateContent": "New version with SMALL SIZE, BUG\nFIXED and MORE GAMES is on Store!\nUpdate now!",
-  "forceUpdateUrl": "market://details?id=EMPTY",
+  "forceUpdateUrl": "market://details?id=bros.run.classic.world",
   "checkClone": false,
   "reviewVersion": -1,
   "showNESGamesTimeDelay": 0,
